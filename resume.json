@@ -1,0 +1,162 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Danshu Jiang",
+    "label": "Biotechnology Undergraduate | Aspiring Bioinformatician",
+    "image": "",
+    "email": "danshujiang0@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Undergraduate Biotechnology student at Hunan Agricultural University with hands-on research experience in plant tissue culture, virus detection, and virus-free technology design. Passionate about bridging biology and computation—applying Python and AI tools to solve biological problems. Seeking opportunities in bioinformatics to combine wet-lab expertise with computational analysis.",
+    "location": {
+      "city": "Changsha",
+      "region": "Hunan",
+      "countryCode": "CN"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "danshujiang",
+        "url": "https://github.com/danshujiang"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Hunan Agricultural University",
+      "url": "https://english.hunau.edu.cn/",
+      "area": "Biotechnology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-01",
+      "score": "",
+      "courses": [
+        "Molecular Biology",
+        "Genetics",
+        "Plant Tissue Culture",
+        "Virology",
+        "Bioinformatics",
+        "Biochemistry",
+        "Cell Biology",
+        "Microbiology"
+      ]
+    }
+  ],
+  "research": [
+    {
+      "name": "Virus-Free Technology for Longya Lily (Lilium brownii)",
+      "description": "Designed and optimized a virus-free propagation protocol for Longya Lily, an economically important cultivar. Integrated meristem tip culture with thermotherapy and chemotherapy to eliminate viral pathogens.",
+      "highlights": [
+        "Established shoot tip isolation and meristem culture protocols for Lilium brownii",
+        "Applied thermotherapy (37°C, 4 weeks) combined with ribavirin chemotherapy to enhance virus elimination efficiency",
+        "Achieved regeneration of virus-free plantlets with improved vigor compared to infected donor material",
+        "Designed the experimental workflow from explant sterilization through acclimatization"
+      ],
+      "technologies": ["Plant Tissue Culture", "Thermotherapy", "Chemotherapy", "Meristem Culture"],
+      "role": "Lead Researcher"
+    },
+    {
+      "name": "Virus Detection in Lily — LMoV, LSV & CMV",
+      "description": "Screened lily samples for three major viral pathogens (Lily Mottle Virus, Lily Symptomless Virus, Cucumber Mosaic Virus) using molecular diagnostic techniques. Validated virus-free status of regenerated plants.",
+      "highlights": [
+        "Performed RT-PCR detection of LMoV, LSV, and CMV from leaf tissue samples",
+        "Extracted total RNA and synthesized cDNA for multiplex screening",
+        "Compared virus incidence rates between field-collected and in-vitro-regenerated material",
+        "Documented detection protocols and maintained experimental records for reproducibility"
+      ],
+      "technologies": ["RT-PCR", "RNA Extraction", "Gel Electrophoresis", "Viral Diagnostics"],
+      "role": "Researcher"
+    },
+    {
+      "name": "Plant Tissue Culture & Regeneration Systems",
+      "description": "Established and maintained in-vitro culture systems for lily and other horticultural crops. Investigated the effects of plant growth regulators on shoot proliferation and root induction.",
+      "highlights": [
+        "Prepared MS media with varying concentrations of 6-BA, NAA, and IBA for organogenesis",
+        "Monitored and controlled aseptic conditions to minimize contamination rates below 5%",
+        "Optimized subculture intervals and rooting protocols across multiple lily genotypes",
+        "Acclimatized tissue-cultured plantlets in greenhouse conditions with >85% survival rate"
+      ],
+      "technologies": ["Aseptic Technique", "Media Preparation", "Micropropagation", "Greenhouse Acclimatization"],
+      "role": "Researcher"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Bioinformatics",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Biopython",
+        "Pandas",
+        "Data Analysis",
+        "Sequence Analysis"
+      ]
+    },
+    {
+      "name": "AI & Productivity Tools",
+      "level": "",
+      "keywords": [
+        "ChatGPT",
+        "Claude Code",
+        "Large Language Models",
+        "AI-assisted Research",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Wet-Lab Techniques",
+      "level": "",
+      "keywords": [
+        "RT-PCR",
+        "RNA/DNA Extraction",
+        "Gel Electrophoresis",
+        "Tissue Culture",
+        "Aseptic Technique",
+        "Virus Detection"
+      ]
+    },
+    {
+      "name": "Collaboration & Version Control",
+      "level": "",
+      "keywords": [
+        "GitHub",
+        "Git",
+        "Scientific Writing",
+        "Protocol Documentation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Bioinformatics",
+      "keywords": [
+        "Genomic Data Analysis",
+        "Transcriptomics",
+        "Viral Genomics",
+        "Computational Biology"
+      ]
+    },
+    {
+      "name": "Plant Biotechnology",
+      "keywords": [
+        "Virus-Free Propagation",
+        "Molecular Breeding",
+        "Germplasm Conservation"
+      ]
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "lastModified": "2026-05-22"
+  }
+}
