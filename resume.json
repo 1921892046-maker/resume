@@ -42,7 +42,7 @@
       ]
     }
   ],
-  "research": [
+  "projects": [
     {
       "name": "Virus-Free Technology for Longya Lily (Lilium brownii)",
       "description": "Designed and optimized a virus-free propagation protocol for Longya Lily, an economically important cultivar. Integrated meristem tip culture with thermotherapy and chemotherapy to eliminate viral pathogens.",
@@ -52,8 +52,10 @@
         "Achieved regeneration of virus-free plantlets with improved vigor compared to infected donor material",
         "Designed the experimental workflow from explant sterilization through acclimatization"
       ],
-      "technologies": ["Plant Tissue Culture", "Thermotherapy", "Chemotherapy", "Meristem Culture"],
-      "role": "Lead Researcher"
+      "keywords": ["Plant Tissue Culture", "Thermotherapy", "Chemotherapy", "Meristem Culture"],
+      "roles": ["Lead Researcher"],
+      "entity": "Hunan Agricultural University",
+      "type": "Research Project"
     },
     {
       "name": "Virus Detection in Lily — LMoV, LSV & CMV",
@@ -64,8 +66,10 @@
         "Compared virus incidence rates between field-collected and in-vitro-regenerated material",
         "Documented detection protocols and maintained experimental records for reproducibility"
       ],
-      "technologies": ["RT-PCR", "RNA Extraction", "Gel Electrophoresis", "Viral Diagnostics"],
-      "role": "Researcher"
+      "keywords": ["RT-PCR", "RNA Extraction", "Gel Electrophoresis", "Viral Diagnostics"],
+      "roles": ["Researcher"],
+      "entity": "Hunan Agricultural University",
+      "type": "Research Project"
     },
     {
       "name": "Plant Tissue Culture & Regeneration Systems",
@@ -76,8 +80,38 @@
         "Optimized subculture intervals and rooting protocols across multiple lily genotypes",
         "Acclimatized tissue-cultured plantlets in greenhouse conditions with >85% survival rate"
       ],
-      "technologies": ["Aseptic Technique", "Media Preparation", "Micropropagation", "Greenhouse Acclimatization"],
-      "role": "Researcher"
+      "keywords": ["Aseptic Technique", "Media Preparation", "Micropropagation", "Greenhouse Acclimatization"],
+      "roles": ["Researcher"],
+      "entity": "Hunan Agricultural University",
+      "type": "Research Project"
+    },
+    {
+      "name": "TNF Gene Bioinformatics Analysis",
+      "description": "Performed computational analysis of Tumor Necrosis Factor (TNF) gene across multiple species. Applied bioinformatics tools for sequence alignment, conserved domain identification, and phylogenetic analysis to understand evolutionary relationships and functional implications.",
+      "highlights": [
+        "Retrieved TNF gene sequences from NCBI GenBank across multiple species",
+        "Performed multiple sequence alignment using Biopython and Clustal Omega",
+        "Identified conserved domains and predicted protein functional sites",
+        "Constructed phylogenetic tree to analyze TNF gene evolutionary relationships across species"
+      ],
+      "keywords": ["Python", "Biopython", "NCBI", "Sequence Alignment", "Phylogenetic Analysis", "Protein Structure Prediction"],
+      "roles": ["Bioinformatics Researcher"],
+      "entity": "Hunan Agricultural University",
+      "type": "Research Project"
+    },
+    {
+      "name": "AI-Assisted Experimental Design for Lily Virus Elimination",
+      "description": "Leveraged large language models (ChatGPT, Claude) to optimize virus elimination protocols for lily. Applied AI tools for literature review, primer design, data analysis, and experimental documentation, significantly accelerating the research workflow.",
+      "highlights": [
+        "Used ChatGPT and Claude Code to screen and summarize relevant virology literature, reducing literature review time by 60%",
+        "Applied LLM-assisted analysis of LMoV/LSV/CMV genome sequences to guide RT-PCR primer design",
+        "Maintained version-controlled experimental protocols and data records on GitHub",
+        "Employed AI tools for statistical analysis, figure generation, and scientific writing"
+      ],
+      "keywords": ["ChatGPT", "Claude Code", "GitHub", "LLM", "Primer Design", "Data Analysis", "Scientific Writing"],
+      "roles": ["Independent Researcher"],
+      "entity": "Hunan Agricultural University",
+      "type": "Research Project"
     }
   ],
   "skills": [
